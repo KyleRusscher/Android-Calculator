@@ -208,7 +208,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void doConversion() {
-        WeatherService.startGetWeather(this, "42.963686", "-85.888595", "p1");
+        WeatherService.startGetWeather(this, "28.563686", "81.388595", "p1");
         EditText dest = null;
         String val = "";
         String fromVal = fromField.getText().toString();

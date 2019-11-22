@@ -148,7 +148,6 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="32dp"
-        android:text="TextView"
         app:layout_constraintStart_toEndOf="@+id/weatherIcon"
         app:layout_constraintTop_toTopOf="@+id/weatherIcon" />
 
@@ -157,7 +156,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
-        android:text="TextView"
         app:layout_constraintBottom_toBottomOf="@+id/weatherIcon"
         app:layout_constraintStart_toEndOf="@+id/weatherIcon" />
 
