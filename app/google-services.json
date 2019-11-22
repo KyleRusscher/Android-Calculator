@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602902097478",
+    "firebase_url": "https://traxyapp-788af.firebaseio.com",
+    "project_id": "traxyapp-788af",
+    "storage_bucket": "traxyapp-788af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602902097478:android:2f8021f9e814f9a7652447",
+        "android_client_info": {
+          "package_name": "edu.gvsu.cis.convcalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602902097478-l3rc2571jc8hcsn3l1n77bos1c5fu3b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRvYbcxgwCQYISY_HePtc0CE-11KbZVuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602902097478-l3rc2571jc8hcsn3l1n77bos1c5fu3b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
